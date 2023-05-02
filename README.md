@@ -7,4 +7,4 @@ oh wow
 
 
 # new pr
-# new commit on main with pr synch
+# new commit on main with pr synch on main
